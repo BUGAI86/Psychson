@@ -1,5 +1,6 @@
 Phison 2251-03 (2303) Custom Firmware &amp; Existing Firmware Patches
 ========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/BUGAI86/Psychson?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This repository contains the following items:
 - `DriveCom` -- PC C# application to communicate with Phison drives.
